@@ -1,0 +1,25 @@
+git init
+git add file.txt
+git commit -m "d"
+git remote add origin https://gregorygerla/git.git
+
+git push -u origin master -- push remotely to github
+
+actually let's make another change
+
+
+
+git branch -- see all branches
+git branch newname
+git checkout newname
+git commit -m "remove everything"
+
+git commit -a -m "commit"
+you must move back to master
+
+-----
+remote repository
+
+- git clone network_address... our_clone_project
+-git remote
+-git remote add our_clone
