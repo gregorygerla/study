@@ -25,4 +25,4 @@ remote repository
 -git remote add our_clone
 
 
-this should be two
+this should be three
