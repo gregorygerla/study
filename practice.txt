@@ -23,3 +23,6 @@ remote repository
 - git clone network_address... our_clone_project
 -git remote
 -git remote add our_clone
+
+
+this should be two
